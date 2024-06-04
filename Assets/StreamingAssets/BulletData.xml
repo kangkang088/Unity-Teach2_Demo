@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BulletData>
+	<bulletInfoList>
+		<BulletInfo id="1" type="1" forwardSpeed="900" rightSpeed="0" roundSpeed="0" resName="Bullet/1" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="2" type="1" forwardSpeed="1000" rightSpeed="0" roundSpeed="0" resName="Bullet/2" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="3" type="1" forwardSpeed="1100" rightSpeed="0" roundSpeed="0" resName="Bullet/3" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="4" type="1" forwardSpeed="1200" rightSpeed="0" roundSpeed="0" resName="Bullet/4" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="5" type="2" forwardSpeed="700" rightSpeed="600" roundSpeed="10" resName="Bullet/5" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="6" type="2" forwardSpeed="800" rightSpeed="600" roundSpeed="10" resName="Bullet/6" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="7" type="2" forwardSpeed="900" rightSpeed="600" roundSpeed="10" resName="Bullet/1" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="8" type="2" forwardSpeed="1000" rightSpeed="600" roundSpeed="10" resName="Bullet/4" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="9" type="3" forwardSpeed="900" rightSpeed="150" roundSpeed="30" resName="Bullet/3" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="10" type="3" forwardSpeed="1000" rightSpeed="150" roundSpeed="30" resName="Bullet/2" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="11" type="3" forwardSpeed="1200" rightSpeed="150" roundSpeed="30" resName="Bullet/5" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="12" type="3" forwardSpeed="1400" rightSpeed="150" roundSpeed="30" resName="Bullet/4" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="13" type="4" forwardSpeed="900" rightSpeed="150" roundSpeed="30" resName="Bullet/1" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="14" type="4" forwardSpeed="1000" rightSpeed="150" roundSpeed="30" resName="Bullet/3" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="15" type="4" forwardSpeed="1200" rightSpeed="150" roundSpeed="30" resName="Bullet/2" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="16" type="4" forwardSpeed="1400" rightSpeed="150" roundSpeed="30" resName="Bullet/6" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="17" type="5" forwardSpeed="300" rightSpeed="0" roundSpeed="60" resName="Bullet/1" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="18" type="5" forwardSpeed="310" rightSpeed="0" roundSpeed="60" resName="Bullet/3" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="19" type="5" forwardSpeed="320" rightSpeed="0" roundSpeed="60" resName="Bullet/2" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+		<BulletInfo id="20" type="5" forwardSpeed="330" rightSpeed="0" roundSpeed="60" resName="Bullet/6" deadEffRes="DeadEff/DeadEff1" liftTime="8"/>
+	</bulletInfoList>
+</BulletData>
